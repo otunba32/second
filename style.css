@@ -1,0 +1,110 @@
+body{
+   font-display: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.background-pic{
+    background-image: linear-gradient(rgba(19, 19, 19, 0.8),rgba(19, 19, 19, 0.8),rgba(19, 19, 19, 0.8)), url(images/big-11.jpg);
+    background-size: cover;
+    height: 100vh;   
+}
+.professional{
+    font-family: sans-serif;;
+    padding-top: 300px;
+    align-items: center !important;
+    color: white !important;
+    /* line-height: 40px; */
+}
+.botton{
+    background-color: blue;
+    color: slateblue;
+    border: none;
+}
+.botton:hover{
+    background-color: rgb(8, 8, 228);
+    color: rgb(60, 60, 201);
+    border: none;
+}
+.list-type{
+    list-style: none !important;
+    font-size: 0.9rem;
+    line-height: 30px;
+    
+}
+.list-type a{
+    text-decoration: none;
+}
+.buttom{
+    color: white;
+    background-color: white;
+}
+.buttom:hover{
+    background-color: slategray !important;
+    color: white !important;
+}
+.header{
+    background-image: linear-gradient(rgba(19, 19, 19, 0.8),rgba(19, 19, 19, 0.8),rgba(19, 19, 19, 0.8)), url(images/big-11.jpg);
+    height: 30rem;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.tip{
+    margin-top: 5rem !important;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+    border: none !important;
+}
+.fa{
+    margin-right: 20px;
+}
+.pump a{
+    color: grey !important;
+}
+/* .pump a:hover{
+    color: grey;
+    background-color: white;
+} */
+.pulp{
+    font-size: 23px;
+}
+.yup{
+    color: chartreuse;
+}
+.house{
+    /* height: 450px; */
+    padding-top: 100px;
+    color: grey !important;
+    background-color: rgb(32, 32, 32);
+}
+.speed li{
+    display: inline;
+    padding: 10px !important;
+    font-size: 25px;
+}
+.facebook:hover{
+    outline: none !important;
+    color: rgb(37, 37, 73) !important;
+}
+.pinterest:hover{
+    color: red !important;
+}
+.twitter:hover{
+    color: rgb(48, 103, 112) !important;
+}
+.google:hover{
+    color: brown !important;
+}
+.dribble:hover{
+    color: pink !important;
+}
+/* .trials a{
+    text-decoration: none;
+    list-style: none !important;
+} */
+.fixed-top{
+    background-color: rgb(219, 219, 219) !important;
+}
+.fixed-top li a{
+    color:black !important;
+
+}
